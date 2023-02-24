@@ -1,5 +1,8 @@
 # 11_Gewerbe_Tool_MA
 
+## Anmerkung 
+* in diesem Github Repository befindet sich nur das frontend des Projekts, da das Backend auf Skripten der Forschungsgruppe für Solarspeichersysteme basiert, welche nicht öffentlich sind 
+
 ## Requirements 
 * Python3 
 * Node 
