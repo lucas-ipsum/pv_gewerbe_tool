@@ -1,0 +1,27 @@
+/* MUI Style Overrides Slider*/
+
+.MuiSlider-root {
+    color: var(--primary-text-color) !important;
+    height: 8px !important;
+}
+.MuiSlider-thumb{
+    color: var(--primary-header-color);
+  }
+  .MuiSlider-rail{
+    color:white !important;
+    background-color: white !important;
+  }
+  .MuiSlider-track{
+    color: white !important;
+
+    opacity: 1;
+  }
+
+  .MuiSlider-markLabel {
+    font-size: 1rem !important;
+    color: var(--primary-text-color) !important;
+  }
+
+  .MuiSlider-mark {
+    display: none !important;
+  }

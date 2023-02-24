@@ -1,0 +1,17 @@
+.prevBoxBtn:hover {
+    border: 1.2px solid var(--primary-header-color) !important;
+    cursor: pointer;
+}
+
+.prevBoxBtnSelected {
+    border: 1.2px solid var(--primary-header-color) !important;
+}
+
+.legend_title {
+    font-size: 12px;
+}
+
+
+.MuiTypography-h4 {
+    font-size: 2rem !important;
+}

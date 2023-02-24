@@ -1,0 +1,14 @@
+.MuiInputBase-root {
+    color: var(--primary-text-color);
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    border: black !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border: none !important;
+}
+
+.headerCentered {
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+.btn {
+    background-color: var(--focus-bg-color);
+    color: var(--primary-text-color);
+    height: 90px;
+    width: 140px;
+    border-radius: 10%;
+    border: solid 1.8px var(--primary-text-color);
+    cursor: pointer;
+    /* Center Buttons */
+    display: flex;
+    margin: auto;
+
+}
+.btn * h4 {                 /* vererbt attribute an alle h4 childs von class btn*/ 
+    margin: 0;
+}
+.btn:hover {
+    background-color: var(--onfocus-bg-color);
+    border: solid 1.8px var(--primary-header-color);        /*TODO schatten onhover hinzufügen + mausfinger*/
+}
+
+.center {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.btn-content {
+    height: 100%;
+    width: 100%;
+}
+
+.checkbox_Lastprofil {
+    display: none;
+}
+
+.btn_selected {
+    background-color: var(--onfocus-bg-color) !important;
+    border: solid 1.8px var(--primary-header-color) !important;        /*TODO schatten onhover hinzufügen + mausfinger*/
+}
+
+.MuiBadge-badge {
+    background-color: var(--primary-header-color) !important;   
+}

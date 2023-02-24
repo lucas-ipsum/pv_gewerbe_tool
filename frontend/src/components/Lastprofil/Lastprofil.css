@@ -1,0 +1,19 @@
+.lastprofil_btn {
+    background-color: var(--focus-bg-color);
+    text-align: center;
+    border-radius: 3%;
+    padding: 20px;
+}
+
+.lastprofil_btn:hover {
+    background-color: #848484;
+}
+
+.heading_Icon {
+    margin: 0;
+}
+
+.lastprofil_input {
+    margin-top: 0px !important;
+    margin-bottom: 30px;
+}

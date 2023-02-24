@@ -1,0 +1,11 @@
+.MuiStepLabel-label {
+    color: var(--primary-text-color) !important;
+}
+
+.MuiStepIcon-root {
+    color: var(--focus-bg-color) !important;
+}
+
+.MuiStepIcon-root.Mui-active {
+    color: var(--primary-header-color) !important;
+}

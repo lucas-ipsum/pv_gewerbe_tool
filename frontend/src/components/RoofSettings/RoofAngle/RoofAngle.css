@@ -1,0 +1,14 @@
+.arrow_btn {
+    background-color: var(--main-bg-color) !important;
+    border: none;
+    border-radius: 4%;
+    cursor: pointer;
+}
+
+.arrow_btn:hover {  
+    background-color: var(--onfocus-bg-color) !important;
+}   
+
+.headerCentered {
+    text-align: center;
+}
